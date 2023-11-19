@@ -9,3 +9,4 @@ Fattts/Fattts is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 Hi, I'm trying to get Home Brew installed on my MI Mac mini. 
+I'm trying to access the SMART data on my ssd so I can try to anticipate failure accurately.
